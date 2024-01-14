@@ -1,0 +1,5 @@
+![image](https://github.com/SachJaiswal/Hospital-Management-System/assets/101462110/099afe30-76b1-4c66-ab7b-7a944c958291)
+![image](https://github.com/SachJaiswal/Hospital-Management-System/assets/101462110/b233dc10-4b2c-48a9-a87b-38f4142919ad)
+![image](https://github.com/SachJaiswal/Hospital-Management-System/assets/101462110/56a47c51-f2f1-4cd0-80a5-45680c06eb10)
+![image](https://github.com/SachJaiswal/Hospital-Management-System/assets/101462110/c2855568-6e0d-4872-84ce-24ee861c9f3f)
+![image](https://github.com/SachJaiswal/Hospital-Management-System/assets/101462110/a88e1617-b297-4c73-96d0-564b732377dd)
